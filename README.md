@@ -24,6 +24,19 @@ This system is engineered for resilience and scalability. It features:
 
 ---
 
+## 📸 Screenshots
+
+### Health Check
+![Health Check](screenshots/health-check.png)
+
+### Market Order
+![Market Order](screenshots/market-order.png)
+
+### Limit Order
+![Limit Order](screenshots/limit-order.png)
+
+---
+
 ## 📂 Architecture Structure
 ```text
 trading_bot/
